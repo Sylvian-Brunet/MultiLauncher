@@ -7,7 +7,7 @@ I had the idea to create this "multi-launcher" in order to have only one executa
     - PathOfExile
     - PathOfBuilding
     - TradeMacro
-- Create a shortcut to the launch.bat file on your desktop.
+- Create a shortcut to the launcher.bat file on your desktop.
 - Re-name it as you wish and launch it!
 
 Note :  
