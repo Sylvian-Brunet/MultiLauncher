@@ -13,6 +13,7 @@ echo.
 timeout 1 > NUL
 
 echo|set /p="Searching for Path Of Exile ShortCut .."
+timeout 1 > NUL
 if exist "PathOfExile.lnk" (
     echo  find!
     echo Path of Exile launch in progress ...
@@ -24,6 +25,7 @@ if exist "PathOfExile.lnk" (
 echo.
 
 echo|set /p="Searching for Path Of Building ShortCut .."
+timeout 1 > NUL
 if exist "PathOfBuilding.lnk" (
     echo  find!
     echo Path of Building launch in progress ...
@@ -35,6 +37,7 @@ if exist "PathOfBuilding.lnk" (
 echo.
 
 echo|set /p="Searching for TradeMacro ShortCut .."
+timeout 1 > NUL
 if exist "TradeMacro.lnk" (
     echo  find!
     echo TradeMacro launch in progress ...
