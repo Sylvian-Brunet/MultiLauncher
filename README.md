@@ -1,7 +1,5 @@
-#Multi-Launcher For Path of Exile
-
+# Multi-Launcher For Path of Exile
 I had the idea to create this "multi-launcher" in order to have only one executable to launch all the softwares revolving around POE, like POB (Path of Building) when I start a new character, or TradeMacro once I'm at the level of being interested in the economy of the game.
-
 - Download this project as a ZIP file.
 - Unzip it.
 - Put the unzip folder anywhere you want on your computer.
